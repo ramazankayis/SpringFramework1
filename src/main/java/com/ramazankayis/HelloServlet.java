@@ -1,4 +1,4 @@
-package com.ramazankayis.springframework1;
+package com.ramazankayis;
 
 import java.io.*;
 import javax.servlet.http.*;
